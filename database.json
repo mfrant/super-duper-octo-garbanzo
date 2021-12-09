@@ -1,0 +1,16 @@
+[
+  {
+    "fname": "Roy Perry",
+    "lname": "Kjetilsson",
+    "address": "Gressvik Grill 24",
+    "postcode": 1200,
+    "country": "Norway"
+  },
+  {
+    "fname": "Mustafa Ali",
+    "lname": "Persson",
+    "address": "Fjordaleen 18",
+    "postcode": "0240",
+    "country": "Norway"
+  }
+]
